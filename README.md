@@ -42,6 +42,10 @@ switch2.
 Direct connection: CIRCUIT DIAGRAM: 
 ![circuit diagram exp 3](https://github.com/user-attachments/assets/0a5b227d-8a3c-47bc-aa67-df06ff2e488a)
 
+
+
+
+
 Tabulation:1
 | NODE | S1      | S2      | LAMP    |
 |------|---------|---------|---------|          
